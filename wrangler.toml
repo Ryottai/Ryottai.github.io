@@ -18,3 +18,4 @@ zone_id = ""
 [site]
 bucket = "./_site"
 entry-point = "workers-site"
+
