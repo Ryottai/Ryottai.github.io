@@ -28,12 +28,12 @@ permalink: /academic_career/
 
 ## Apr. 2017 - Mar. 2020
 ----------------------------------------------------------------
-**Graduated from Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department{:.heading.flip-title} 
+* **Graduated from** [Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]{:.heading.flip-title} 
 
 ## Apr. 2020 - 
 ----------------------------------------------------------------
 * **Bachelor of Engineering Science at** [Yokohama National University]{:.heading.flip-title} 
 
-
+[Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
 [Yokohama National University]: https://www.ynu.ac.jp/english/
 
