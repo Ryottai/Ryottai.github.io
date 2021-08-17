@@ -377,11 +377,11 @@ twitter:
 #   admins:              <id>
 
 # Used on index and about sites
-social:
   name:                Ryota Tai
-  links:
-    - https://twitter.com/Zitrone1010_12
-    - https://github.com/Ryottai
+social:
+  twitter: https://twitter.com/Zitrone1010_12
+   github: https://github.com/Ryottai
+    email: rmkr.t.2335.625@gmail.com
 
 
 # Plugin Configs
