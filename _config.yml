@@ -69,10 +69,10 @@ menu:
     url:               /academic_career/ 
   - title:             Skills
     url:               /skills/
+  - title:             Papers
+    url:               /papers/
   - title:             Awards
     url:               /awards/
-  - title:             Paper
-    url:               /paper/
   #- title:             Blog
   #  url:               /blog/
   # - title:             About
