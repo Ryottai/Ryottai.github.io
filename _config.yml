@@ -30,7 +30,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: <br> Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> 
+tagline: <br> Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
@@ -438,3 +438,4 @@ jekyll_compose:
         - title: Project Link
           url: https://example.com
 
+github : [metadata]
