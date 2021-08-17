@@ -30,11 +30,11 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: <br> Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
+tagline: Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [Ryota Tai]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -48,9 +48,9 @@ author:
   name:                Ryota Tai
   # email:               rmkr.t.2335.625@gmail.com
   social:
-    twitter:  https://twitter.com/Zitrone1010_12
-    github:   https://github.com/Ryottai
-    email:    rmkr.t.2335.625@gmail.com
+    twitter: https://twitter.com/Zitrone1010_12
+    github: https://github.com/Ryottai
+    email: rmkr.t.2335.625@gmail.com
   
   
   # # Used by `jekyll-seo-tag`:
@@ -67,7 +67,9 @@ menu:
   - title:             Qualifications
     url:               /qualifications/
   - title:             Awards
-    url:               /awards/  
+    url:               /awards/
+  - title:             Biography 
+    url:               /biography/
   # - title:             About
   #  url:               /about/
   - title:             Japanese version
@@ -350,7 +352,7 @@ plugins:
   - jekyll-titles-from-headings
   - jekyll-include-cache
   - jekyll-last-modified-at
-
+  - jekyll-target-blank
 
 # SEO Tag
 # ---------------------------------------------------------------------------------------
