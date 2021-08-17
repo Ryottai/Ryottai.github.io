@@ -28,7 +28,7 @@ permalink: /academic_career/
 
 ## Apr. 2017 - Mar. 2020
 ----------------------------------------------------------------
-* **Graduated from Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department{:.heading.flip-title} 
+**Graduated from Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department{:.heading.flip-title} 
 
 ## Apr. 2020 - 
 ----------------------------------------------------------------
