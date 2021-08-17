@@ -63,17 +63,16 @@ menu:
   #  url:               /example/
   # - title:             Documentation
   #  url:               /docs/
+  - title:             Biography 
+    url:               /biography/
   - title:             Academic Career
     url:               /academic_career/ 
   - title:             Qualifications
     url:               /qualifications/
   - title:             Awards
     url:               /awards/
-  - title:             Biography 
-    url:               /biography/
   # - title:             About
   #  url:               /about/
-  - title:             Japanese version
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
