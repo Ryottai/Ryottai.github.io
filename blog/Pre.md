@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blog
 title: Pre
 image: 
   path: /assets/img/blog/P_20181204_151936_vHDR_On.jpg
