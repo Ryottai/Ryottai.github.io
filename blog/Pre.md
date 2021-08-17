@@ -1,6 +1,6 @@
 ---
-layout: page
-title: Pre
+layout: blog
+title: blog
 image: 
   path: /assets/img/blog/P_20181204_151936_vHDR_On.jpg
 description: >
