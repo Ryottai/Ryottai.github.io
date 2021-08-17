@@ -29,11 +29,12 @@ permalink: /awards/
 ## 2021
 ----------------------------------------------------------------
 * [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]{:.heading.flip-title}
-[The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
-
   
 ## 2019
 ----------------------------------------------------------------
 * [High School Chemistry Grand Prix, Tokai Branch Encouragement Award]{:.heading.flip-title}
-[High School Chemistry Grand Prix, Tokai Branch Encouragement Award]: http://tokai.chemistry.or.jp/award_2020.html
+
+
+[The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
   
+[High School Chemistry Grand Prix, Tokai Branch Encouragement Award]: http://tokai.chemistry.or.jp/award_2020.html
