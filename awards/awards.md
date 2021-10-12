@@ -32,7 +32,7 @@ permalink: /awards/
   
 ## 2020
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 2nd Year Spring Semester Excellent Academic Performance Award
+* [Yokohama National University, Reiwa 2nd Year Spring Semester Excellent Academic Performance Award]
   
 ## 2019
 ----------------------------------------------------------------
