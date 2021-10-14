@@ -28,6 +28,8 @@ permalink: /awards/
 
 ## 2021
 ----------------------------------------------------------------
+* Yokohama National University, Reiwa 3rd Year Spring Semester Excellent Academic Performance Award
+ 
 * [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter Excellent Graduate]{:.heading.flip-title}
   
 ## 2020
