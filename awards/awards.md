@@ -38,7 +38,7 @@ permalink: /awards/
   
 ## 2019
 ----------------------------------------------------------------
-* [High School Chemistry Grand Prix], [Tokai Branch Encouragement Award]{:.heading.flip-title}
+* [High School Chemistry Grand Prix]{:.heading.flip-title}, [Tokai Branch Encouragement Award]{:.heading.flip-title}
 
 
 [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
