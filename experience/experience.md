@@ -27,15 +27,15 @@ permalink: /experience/
 
 ## Profession
 ----------------------------------------------------------------
-### Oct.2021-
+### Oct. 2021-
 * Teaching Assistant, [Chair for Global Consumer Intelligence (GCI) 2021 Winter Excellent Graduate at The University of Tokyo]{:.heading.flip-title}
 
-### Apr.2021-Sep.2021
+### Apr. 2021-Sep. 2021
 * Teaching Assistant, [Chair for Global Consumer Intelligence (GCI) 2021 Summer Excellent Graduate at The University of Tokyo]{:.heading.flip-title}
 
 ## Activity
 ----------------------------------------------------------------
-### Apr.2021-
+### Apr. 2021-
 * Wing Team of [Yokohama National University Human-Powered Airplane Production Group, Yokohama Aero Space]{:.heading.flip-title}
   
  
