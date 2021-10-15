@@ -35,7 +35,7 @@ tagline: Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yoko
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
-keywords:              [Ryota Tai]
+keywords:              [Ryota, Tai, Ryottai]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -65,8 +65,10 @@ menu:
   #  url:               /docs/
   - title:             Biography 
     url:               /biography/
-  - title:             Academic Career
-    url:               /academic_career/ 
+  - title:             Edcation
+    url:               /education/ 
+  - title:             Experience
+    url:               /experience/
   - title:             Skills
     url:               /skills/
   - title:             Papers
