@@ -36,8 +36,8 @@ permalink: /experience/
 ## Research
 ----------------------------------------------------------------
 ### Sep. 2018-Aug. 2019
-* "Relationship between wing surface shape and lift-drag ratio" for [SSH]{:.heading.flip-title} class  
-  Reiwa first year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug 7th and 8th, 2018)
+* *"Relationship between wing surface shape and lift-drag ratio*" for [SSH]{:.heading.flip-title} class  
+  Reiwa first year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug 7th and 8th, 2019)
   
 ## Affiliation
 ----------------------------------------------------------------  
