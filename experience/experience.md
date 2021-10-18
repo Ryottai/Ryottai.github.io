@@ -33,6 +33,15 @@ permalink: /experience/
 ### Apr. 2021-Sep. 2021
 * Teaching Assistant, [Chair for Global Consumer Intelligence (GCI) 2021 Summer Excellent Graduate at The University of Tokyo]{:.heading.flip-title}
 
+## Research
+----------------------------------------------------------------
+### Sep. 2018-Aug. 2019
+* "Relationship between wing surface shape and lift-drag ratio" for [SSH]{:.heading.flip-title} class  
+  Reiwa first year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug 7th and 8th, 2018)
+  
+## Affiliation
+----------------------------------------------------------------  
+  
 ## Activity
 ----------------------------------------------------------------
 ### Apr. 2021-
@@ -43,4 +52,8 @@ permalink: /experience/
   
 [Chair for Global Consumer Intelligence (GCI) 2021 Summer Excellent Graduate at The University of Tokyo]: https://weblab.t.u-tokyo.ac.jp/past_lecturers/
   
+[SSH]: https://www.jst.go.jp/cpse/ssh/index.html
+  
+[SSH student research presentation]: https://www.jst.go.jp/cpse/ssh/ssh/public/sshevent.html 
+ 
 [Yokohama National University Human-Powered Airplane Production Group, Yokohama Aero Space]: http://www.yokohama-aerospace.com
