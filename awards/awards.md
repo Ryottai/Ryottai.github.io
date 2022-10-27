@@ -26,6 +26,13 @@ permalink: /awards/
 
 {:.note}
 
+## 2022
+----------------------------------------------------------------
+* Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
+ 
+* Yokohama National University, College of Engineering Science, Mechanical Engineering Program, ROUTE(Research Opportunities for UndergraduaTEs) Excellent Research Presentation Award
+"Examination of a model for estimating the number of people in *YNU Three Cs Avoidance Navi*"
+
 ## 2021
 ----------------------------------------------------------------
 * Yokohama National University, Reiwa 3rd Year Spring Semester Excellent Academic Performance Award
