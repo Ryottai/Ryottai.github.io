@@ -29,9 +29,11 @@ permalink: /awards/
 ## 2022
 ----------------------------------------------------------------
 * Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
+
+* Yokohama National University, Reiwa 4th Year Spring Semester Excellent Academic Performance Award
  
-* Yokohama National University, College of Engineering Science, Mechanical Engineering Program, ROUTE(Research Opportunities for UndergraduaTEs) Excellent Research Presentation Award
-"Examination of a model for estimating the number of people in *YNU Three Cs Avoidance Navi*"
+* Yokohama National University, College of Engineering Science, Mechanical Engineering Program, [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} Excellent Research Presentation Award <br>
+*"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*
 
 ## 2021
 ----------------------------------------------------------------
@@ -48,7 +50,8 @@ permalink: /awards/
 * [High School Chemistry Grand Prix]{:.heading.flip-title}, [Tokai Branch Encouragement Award]{:.heading.flip-title}
 
 
+[ROUTE(Research Opportunities for UndergraduaTEs)]: http://es-route.ynu.ac.jp/
 [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter excellent graduate]: https://gci.t.u-tokyo.ac.jp/gci2020winter-honors/
   
 [High School Chemistry Grand Prix]: https://gp.csj.jp/ 
-[Tokai Branch Encouragement Award]: http://tokai.chemistry.or.jp/award_2020.html
+[Tokai Branch Encouragement Award]: https://tokai.chemistry.or.jp/wp-content/uploads/2022/09/award_2020.pdf

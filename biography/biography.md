@@ -23,4 +23,23 @@ sitemap: false
 permalink: /biography/
 ---
 
-editing...
+{:.note}
+
+## Education
+----------------------------------------------------------------
+### Apr. 2020 - 
+* **Bachelor of Engineering Science at** [Yokohama National University]{:.heading.flip-title} 
+
+### Apr. 2017 - Mar. 2020
+* **Graduated from** [Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]{:.heading.flip-title} 
+
+[Yokohama National University]: https://www.ynu.ac.jp/english/
+
+[Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
+
+## Scholarship
+----------------------------------------------------------------
+### Apr. 2022 - Mar.2024
+* Public Interest Incorporated Foundation [Sadao Sato International Scholarship Foundation]{:.heading.flip-title} 
+
+[Sadao Sato International Scholarship Foundation]: https://sato-isf.or.jp/

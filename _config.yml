@@ -31,7 +31,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Sophomore in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
+tagline: Junior in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
@@ -65,10 +65,10 @@ menu:
   #  url:               /docs/
   - title:             Biography 
     url:               /biography/
-  - title:             Education
-    url:               /education/ 
-  - title:             Experience
-    url:               /experience/
+  #- title:             Education
+  #  url:               /education/ 
+  - title:             Activity
+    url:               /activity/
   - title:             Skills
     url:               /skills/
   - title:             Papers
