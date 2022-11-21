@@ -31,6 +31,7 @@ permalink: /skills/
 
 * Deep Learning for GENERAL 2022#3, Japan Deep Learning Association (JDLA)
 
+
 ## Completion Course
 ----------------------------------------------------------------
 * The University of Tokyo, Mastuo Laboratory Deep Learning Basic Course 2022
