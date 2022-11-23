@@ -44,7 +44,7 @@ for [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title}
 
 ### Sep. 2018 - Aug. 2019
 * *"Relationship between wing surface shape and lift-drag ratio"* <br>
-for [SSH]{:.heading.flip-title} class <br>
+for [SSH(Super Science High schools)]{:.heading.flip-title} class <br>
 Reiwa 1st year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug. 7th and 8th, 2019)
 
 ## Affiliation
@@ -62,7 +62,7 @@ Reiwa 1st year [SSH student research presentation]{:.heading.flip-title} in KOBE
 
 [ROUTE(Research Opportunities for UndergraduaTEs)]: http://es-route.ynu.ac.jp/
 
-[SSH]: https://www.jst.go.jp/cpse/ssh/index.html
+[SSH(Super Science High schools)]: https://www.jst.go.jp/cpse/ssh/index.html
 
 [SSH student research presentation]: https://www.jst.go.jp/cpse/ssh/ssh/public/sshevent.html 
 
