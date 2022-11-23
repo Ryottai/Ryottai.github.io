@@ -39,10 +39,12 @@ permalink: /activity/
 ## Research & Presentation
 ----------------------------------------------------------------
 ### Apr. 2022 - Sep. 2022
-* *"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*  for [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title}
+* *"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"* <br>
+for [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title}
 
 ### Sep. 2018 - Aug. 2019
-* *"Relationship between wing surface shape and lift-drag ratio"*  for [SSH]{:.heading.flip-title} class <br>
+* *"Relationship between wing surface shape and lift-drag ratio"* <br>
+for [SSH]{:.heading.flip-title} class <br>
 Reiwa 1st year [SSH student research presentation]{:.heading.flip-title} in KOBE (Aug. 7th and 8th, 2019)
 
 ## Affiliation
