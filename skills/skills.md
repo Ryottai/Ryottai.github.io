@@ -31,6 +31,8 @@ permalink: /skills/
 
 * Deep Learning for GENERAL 2022#3, Japan Deep Learning Association (JDLA)
 
+* Fujitsu Certified Professional AI
+
 
 ## Completion Course
 ----------------------------------------------------------------
