@@ -31,7 +31,7 @@ description:           >
   with a focus on personal sites that are meant to impress.
 
 # A shorter description for the sidebar.
-tagline: Junior in college <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
+tagline: Senior in <br> <a href='https://www.ynu.ac.jp/english/'>Yokohama National University</a> <br> 
 # Change `tagline` in `_config.yml`
 
 # A list of keywords for your blog
@@ -47,11 +47,11 @@ author:
   # Used by `jekyll-feed`:
   picture: https://avatars.githubusercontent.com/u/71510008?s=400&u=90b7660847711b64017e72a553d34d766eb37d0c&v=4
   name:                Ryota Tai
-  # email:               rmkr.t.2335.625@gmail.com
+  # email:               
   social:
     twitter: https://twitter.com/vortex22D
     github: https://github.com/Ryottai
-    email: rmkr.t.2335.625@gmail.com
+    #email: 
   
   
   # # Used by `jekyll-seo-tag`:
@@ -67,12 +67,14 @@ menu:
     url:               /biography/
   #- title:             Education
   #  url:               /education/ 
-  - title:             Activity
-    url:               /activity/
+  #- title:             Activity
+  #  url:               /activity/
+  - title:             Works
+    url:               /works/
   - title:             Skills
     url:               /skills/
-  - title:             Papers
-    url:               /papers/
+  #- title:             Papers
+  #  url:               /papers/
   - title:             Awards
     url:               /awards/
   #- title:             Blog
@@ -387,7 +389,7 @@ twitter:
 social:
   twitter: https://twitter.com/vortex22D
   github: https://github.com/Ryottai
-  email: rmkr.t.2335.625@gmail.com
+  #email: 
 
 
 # Plugin Configs

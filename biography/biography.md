@@ -25,7 +25,7 @@ permalink: /biography/
 
 {:.note}
 
-## Education
+## Academic history
 ----------------------------------------------------------------
 ### Apr. 2020 - 
 * **Bachelor of Engineering Science at** [Yokohama National University]{:.heading.flip-title} 
@@ -33,13 +33,37 @@ permalink: /biography/
 ### Apr. 2017 - Mar. 2020
 * **Graduated from** [Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]{:.heading.flip-title} 
 
-[Yokohama National University]: https://www.ynu.ac.jp/english/
 
-[Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
+## Professional experience
+----------------------------------------------------------------
+### Sep. 2022 -
+* AI Engineer, Collaborative Project at [Matsuo Institute Corporation]{:.heading.flip-title}
+
+### Oct. 2022 -
+* Teaching Assistant Leader, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
+
+### Apr. 2021 - Sep. 2022
+* Teaching Assistant, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
+
 
 ## Scholarship
 ----------------------------------------------------------------
 ### Apr. 2022 - Mar.2024
 * Public Interest Incorporated Foundation [Sadao Sato International Scholarship Foundation]{:.heading.flip-title} 
 
+
+## Affiliation
+----------------------------------------------------------------
+
+
+[Yokohama National University]: https://www.ynu.ac.jp/english/
+
+[Shizuoka Prefectural Shimizu Higashi High School, Science and Mathematics Department]: http://www.edu.pref.shizuoka.jp/shimizuhigashi-h/home.nsf/IndexFormView?OpenView
+
 [Sadao Sato International Scholarship Foundation]: https://sato-isf.or.jp/
+
+[Matsuo Institute Corporation]: https://matsuo-institute.com/
+
+[Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/
+
+[The University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
