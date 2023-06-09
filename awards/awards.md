@@ -26,6 +26,10 @@ permalink: /awards/
 
 {:.note}
 
+## 2023
+----------------------------------------------------------------
+* Yokohama National University, Reiwa 4th Year Autumn Semester Excellent Academic Performance Award
+
 ## 2022
 ----------------------------------------------------------------
 * Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
