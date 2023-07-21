@@ -24,7 +24,7 @@ permalink: /awards/
 ---
 
 * this unordered seed list will be replaced by the toc 
-{:toc}
+{:toc .large-only}
 
 ## 2023
 ----------------------------------------------------------------

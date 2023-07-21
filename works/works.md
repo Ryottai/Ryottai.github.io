@@ -23,8 +23,8 @@ sitemap: false
 permalink: /works/
 ---
 
-{:.note}
-
+* this unordered seed list will be replaced by the toc 
+{:toc .large-only}
 
 ## Presentations
 ----------------------------------------------------------------
