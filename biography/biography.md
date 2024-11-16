@@ -28,7 +28,10 @@ permalink: /biography/
 
 ## Academic history
 ----------------------------------------------------------------
-### Apr. 2020 - 
+### Apr. 2024 -
+* **Master of Frontier Science at** [The University of Tokyo]{:.heading.flip-title}
+
+### Apr. 2020 - Mar. 2024
 * **Bachelor of Engineering Science at** [Yokohama National University]{:.heading.flip-title} 
 
 ### Apr. 2017 - Mar. 2020
@@ -67,4 +70,4 @@ permalink: /biography/
 
 [Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/
 
-[The University of Tokyo]: https://www.u-tokyo.ac.jp/ja/index.html
+[The University of Tokyo]: https://www.u-tokyo.ac.jp/en/
