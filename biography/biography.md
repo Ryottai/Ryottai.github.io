@@ -43,7 +43,10 @@ permalink: /biography/
 ### Sep. 2022 -
 * AI Engineer, Collaborative Project at [Matsuo Institute Corporation]{:.heading.flip-title}
 
-### Oct. 2022 -
+### Oct. 2023 - Sep. 2024
+* Lecturer, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
+
+### Oct. 2022 - Sep. 2024
 * Teaching Assistant Leader, [Chair for Global Consumer Intelligence (GCI)]{:.heading.flip-title} at [The University of Tokyo]{:.heading.flip-title}
 
 ### Apr. 2021 - Sep. 2022
