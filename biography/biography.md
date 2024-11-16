@@ -61,7 +61,11 @@ permalink: /biography/
 
 ## Affiliation
 ----------------------------------------------------------------
+### Apr. 2024 -
+* [The Japan Society of Naval Architects and Ocean Engineers(JASNAOE)]{:.heading.flip-title} 
 
+
+[The University of Tokyo]: https://www.u-tokyo.ac.jp/en/
 
 [Yokohama National University]: https://www.ynu.ac.jp/english/
 
@@ -73,4 +77,4 @@ permalink: /biography/
 
 [Chair for Global Consumer Intelligence (GCI)]: https://gci.t.u-tokyo.ac.jp/
 
-[The University of Tokyo]: https://www.u-tokyo.ac.jp/en/
+[The Japan Society of Naval Architects and Ocean Engineers(JASNAOE)]: https://www.jasnaoe.or.jp/en/
