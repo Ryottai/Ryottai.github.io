@@ -40,6 +40,7 @@ permalink: /skills/
 * The University of Tokyo, Mastuo Laboratory Deep Learning Basic Course 2022
 
 * The University of Tokyo, Chair for Global Consumer Intelligence (GCI) Winter 2020
+<img src="img/2020_GCI.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
 
 <!--
 ## Coding
