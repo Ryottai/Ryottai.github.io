@@ -39,7 +39,7 @@ permalink: /awards/
 ## 2022
 ----------------------------------------------------------------
 * Yokohama National University, College of Engineering Science, Mechanical Engineering Program, [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} Excellent Research Presentation Award <br>
-*"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"* <br>
+*"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*
 
 <img src="img/2022_ROUTE.png" width=80%; style="display: block; margin: auto; box-shadow: 0 0 10px gray;">
 
