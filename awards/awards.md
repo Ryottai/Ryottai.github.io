@@ -40,7 +40,7 @@ permalink: /awards/
 ----------------------------------------------------------------
 * Yokohama National University, College of Engineering Science, Mechanical Engineering Program, [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} Excellent Research Presentation Award <br>
 *"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*
-<img src="img/2022_ROUTE.png" style="box-shadow: 3px 3px 3px gray;">
+<img src="img/2022_ROUTE.png" style="box-shadow: 0 0 4px gray;">
 
 * Yokohama National University, Reiwa 4th Year Spring Semester Excellent Academic Performance Award
 
