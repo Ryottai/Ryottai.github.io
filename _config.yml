@@ -67,14 +67,14 @@ menu:
     url:               /biography/
   #- title:             Education
   #  url:               /education/ 
-  #- title:             Activity
-  #  url:               /activity/
-  - title:             Works
-    url:               /works/
+  - title:             Activity
+    url:               /activity/
+  # - title:             Works
+  #   url:               /works/
   - title:             Skills
     url:               /skills/
-  #- title:             Papers
-  #  url:               /papers/
+  - title:             Papers
+    url:               /papers/
   - title:             Awards
     url:               /awards/
   #- title:             Blog

@@ -23,4 +23,9 @@ sitemap: false
 permalink: /papers/
 ---
 
-No Paper...yet
+## domestic conference(Non Peer-reviewed)
+----------------------------------------------------------------
+- **Ryota Tai**, Shigetatsu Betchaku, Tetsuo Okada, Yasumi Kawamura, Ginga Hayakawa <br>
+Estimation of Encounter Directional Wave Spectra of Arbitrary Shapes Based on Measured Ship Stress Using Dimensionality Reduction with Autoencoder <br>
+Annual Spring Meeting on the Japan Society of Naval Architects and Ocean Engineers (**JASNAOE**) 2024
+
