@@ -37,6 +37,9 @@ permalink: /skills/
 
 ## Completion Course
 ----------------------------------------------------------------
+* Nippon Foundation Ocean Innovation Consortium, Ocean Development Summer School 2024
+<img src="img/2024_NTNU.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
+
 * The University of Tokyo, Mastuo Laboratory Deep Learning Basic Course 2022
 
 * The University of Tokyo, Chair for Global Consumer Intelligence (GCI) Winter 2020
