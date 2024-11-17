@@ -26,24 +26,30 @@ permalink: /awards/
 * this unordered seed list will be replaced by the toc 
 {:toc .large-only}
 
+## 2024
+----------------------------------------------------------------
+* Japan Society of Naval Architects and Ocean Engineers (JASNAOE), Reiwa 6th Year Annual Spring Conference Excellent Young Presenter Award
+
+* Yokohama National University, Reiwa 5th Year Excellent Academic Performance Award
+
 ## 2023
 ----------------------------------------------------------------
 * Yokohama National University, Reiwa 4th Year Autumn Semester Excellent Academic Performance Award
 
 ## 2022
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
-
-* Yokohama National University, Reiwa 4th Year Spring Semester Excellent Academic Performance Award
- 
 * Yokohama National University, College of Engineering Science, Mechanical Engineering Program, [ROUTE(Research Opportunities for UndergraduaTEs)]{:.heading.flip-title} Excellent Research Presentation Award <br>
 *"Examination of a model for estimating the number of people in YNU Three Cs Avoidance Navi"*
 
+* Yokohama National University, Reiwa 4th Year Spring Semester Excellent Academic Performance Award
+
+* Yokohama National University, Reiwa 3rd Year Autumn Semester Excellent Academic Performance Award
+
 ## 2021
 ----------------------------------------------------------------
-* Yokohama National University, Reiwa 3rd Year Spring Semester Excellent Academic Performance Award
- 
 * [The University of Tokyo, Chair for Global Consumer Intelligence (GCI) 2020 Winter Excellent Graduate]{:.heading.flip-title}
+
+* Yokohama National University, Reiwa 3rd Year Spring Semester Excellent Academic Performance Award
   
 ## 2020
 ----------------------------------------------------------------
