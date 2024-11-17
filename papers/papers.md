@@ -26,7 +26,7 @@ permalink: /papers/
 * this unordered seed list will be replaced by the toc 
 {:toc .large-only}
 
-## Domestic Conference(Non Peer-reviewed)
+## Domestic Conferences (Non Peer-reviewed)
 ----------------------------------------------------------------
 - **Ryota Tai**, Shigetatsu Betchaku, Tetsuo Okada, Yasumi Kawamura, Ginga Hayakawa <br>
 *Estimation of Encounter Directional Wave Spectra of Arbitrary Shapes Based on Measured Ship Stress Using Dimensionality Reduction with Autoencoder* <br>
