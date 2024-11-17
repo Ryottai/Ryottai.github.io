@@ -41,6 +41,7 @@ permalink: /skills/
 <img src="img/2024_NTNU.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
 
 * The University of Tokyo, Mastuo Laboratory Deep Learning Basic Course 2022
+<img src="img/2022_DLbasic.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
 
 * The University of Tokyo, Chair for Global Consumer Intelligence (GCI) Winter 2020
 <img src="img/2020_GCI.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
