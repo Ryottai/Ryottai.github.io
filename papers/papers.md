@@ -23,6 +23,9 @@ sitemap: false
 permalink: /papers/
 ---
 
+* this unordered seed list will be replaced by the toc 
+{:toc .large-only}
+
 ## Domestic Conference(Non Peer-reviewed)
 ----------------------------------------------------------------
 - **Ryota Tai**, Shigetatsu Betchaku, Tetsuo Okada, Yasumi Kawamura, Ginga Hayakawa <br>
