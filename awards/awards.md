@@ -28,7 +28,9 @@ permalink: /awards/
 
 ## 2024
 ----------------------------------------------------------------
-* Japan Society of Naval Architects and Ocean Engineers (JASNAOE), Reiwa 6th Year Annual Spring Conference Excellent Young Presenter Award
+* Japan Society of Naval Architects and Ocean Engineers (JASNAOE), Reiwa 6th Year Annual Spring Conference Excellent Young Presenter Award <br>
+Supplementary Award: Nippon Yusen Kaisha (NYK) Award
+<img src="img/2024_JASNAOE.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
 
 * Yokohama National University, Reiwa 5th Year Excellent Academic Performance Award
 <img src="img/2024_YNU.png" width="50%" style="display: block; margin: 15px auto 15px auto; box-shadow: 0 0 10px gray;">
